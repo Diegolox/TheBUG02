@@ -9,7 +9,7 @@ Instead of relying on multiple external modules, this board concentrates the com
 
 ## What the project consists of
 
-TheBUG02 is built as a robotics electronics platform where the main control and power subsystems are already integrated on-board. The design includes:
+TheBUG02 is designed as a robotics electronics platform where the main control and power subsystems are already integrated on-board. The design includes:
 
 - **ESP32-based control system** as the main processing unit
 - **Integrated motor drivers** for controlling the DC motors of the robot
@@ -38,21 +38,14 @@ The project follows a clear design philosophy: reduce external wiring, improve e
 
 By integrating the power stage, motor drivers, processor, and monitoring circuitry into a single board, TheBUG02 becomes a practical base for building complete robotic systems with fewer external dependencies.
 
-## Project status
+---
 
-**Status:** In development / prototyping
-
-
-
-
-# TheBUG02
-
-## 🇪🇸 Descripción del proyecto
+## 🇪🇸 Español
 
 **TheBUG02** es una **PCB de control todo-en-uno** diseñada para un **robot diferencial de dos ruedas**.  
 El proyecto busca ofrecer una plataforma embebida compacta e integrada que reúna en una sola placa los bloques electrónicos principales necesarios en un robot móvil pequeño: gestión de alimentación, accionamiento de motores, integración del microcontrolador, monitorización de batería e interfaces de desarrollo.
 
-En lugar de depender de varios módulos externos, esta placa concentra toda la electrónica de bajo nivel en una única PCB, haciendo que el robot sea más fácil de montar, más fiable y más adecuado para prototipado rápido y desarrollo iterativo.
+En lugar de depender de varios módulos externos, esta placa concentra toda la electrónica de bajo nivel en una única PCB, haciendo que el robot sea más fácil de montar, más fiable y más adecuada para prototipado rápido y desarrollo iterativo.
 
 ## En qué consiste el proyecto
 
@@ -85,6 +78,21 @@ El proyecto sigue una filosofía clara de diseño: reducir cableado externo, mej
 
 Al integrar en una sola placa la etapa de potencia, los drivers de motor, el procesador y la circuitería de monitorización, TheBUG02 se convierte en una base práctica para construir sistemas robóticos completos con menos dependencias externas.
 
-## Estado del proyecto
+---
 
-**Estado:** En desarrollo / prototipado
+## Images / Imágenes
+
+### 3D View / Vista 3D
+![3D View](images/3D.png)
+
+### PCB Layout
+![PCB Layout](images/layout.png)
+
+### Schematic / Esquemático
+![Schematic](images/schematic.png)
+
+---
+
+## Project Status / Estado del proyecto
+
+**Status / Estado:** In development / prototyping · En desarrollo / prototipado

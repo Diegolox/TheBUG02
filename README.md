@@ -47,7 +47,7 @@ By integrating the power stage, motor drivers, processor, and monitoring circuit
 ![PCB Layout](images/layout.png)
 
 ### Schematic
-![Schematic](images/schematic.png)
+![Schematic](images/schematic.jpg)
 
 ---
 
@@ -98,7 +98,7 @@ Al integrar en una sola placa la etapa de potencia, los drivers de motor, el pro
 ![PCB Layout](images/layout.png)
 
 ### Esquemático
-![Esquemático](images/schematic.png)
+![Esquemático](images/schematic.jpg)
 
 ---
 

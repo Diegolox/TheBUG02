@@ -38,6 +38,17 @@ The project follows a clear design philosophy: reduce external wiring, improve e
 
 By integrating the power stage, motor drivers, processor, and monitoring circuitry into a single board, TheBUG02 becomes a practical base for building complete robotic systems with fewer external dependencies.
 
+## Images
+
+### 3D View
+![3D View](images/3D.png)
+
+### PCB Layout
+![PCB Layout](images/layout.png)
+
+### Schematic
+![Schematic](images/schematic.png)
+
 ---
 
 ## 🇪🇸 Español
@@ -78,18 +89,16 @@ El proyecto sigue una filosofía clara de diseño: reducir cableado externo, mej
 
 Al integrar en una sola placa la etapa de potencia, los drivers de motor, el procesador y la circuitería de monitorización, TheBUG02 se convierte en una base práctica para construir sistemas robóticos completos con menos dependencias externas.
 
----
+## Imágenes
 
-## Images / Imágenes
+### Vista 3D
+![Vista 3D](images/3D.png)
 
-### 3D View / Vista 3D
-![3D View](images/3D.png)
-
-### PCB Layout
+### Layout de la PCB
 ![PCB Layout](images/layout.png)
 
-### Schematic / Esquemático
-![Schematic](images/schematic.png)
+### Esquemático
+![Esquemático](images/schematic.png)
 
 ---
 

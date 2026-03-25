@@ -41,3 +41,50 @@ By integrating the power stage, motor drivers, processor, and monitoring circuit
 ## Project status
 
 **Status:** In development / prototyping
+
+
+
+
+# TheBUG02
+
+## 🇪🇸 Descripción del proyecto
+
+**TheBUG02** es una **PCB de control todo-en-uno** diseñada para un **robot diferencial de dos ruedas**.  
+El proyecto busca ofrecer una plataforma embebida compacta e integrada que reúna en una sola placa los bloques electrónicos principales necesarios en un robot móvil pequeño: gestión de alimentación, accionamiento de motores, integración del microcontrolador, monitorización de batería e interfaces de desarrollo.
+
+En lugar de depender de varios módulos externos, esta placa concentra toda la electrónica de bajo nivel en una única PCB, haciendo que el robot sea más fácil de montar, más fiable y más adecuado para prototipado rápido y desarrollo iterativo.
+
+## En qué consiste el proyecto
+
+TheBUG02 está planteado como una plataforma electrónica para robótica en la que los subsistemas principales de control y potencia ya vienen integrados en placa. El diseño incluye:
+
+- **Sistema de control basado en ESP32** como unidad principal de procesamiento
+- **Drivers de motores integrados** para el control de los motores DC del robot
+- **Convertidor DC-DC integrado** para convertir de forma eficiente la alimentación desde batería
+- **Regulador lineal integrado** para generar tensiones reguladas estables
+- **Lectura de tensión de baterías** para monitorización y supervisión energética
+- **Interfaz de programación y depuración ESP-PROG** para carga de firmware y debugging
+- **Diseño full-SMD y compacto**, orientado a reducir tamaño y mejorar fabricabilidad
+
+## Objetivo del proyecto
+
+El objetivo de TheBUG02 es servir como controlador embebido compacto para aplicaciones de robótica móvil, especialmente robots pequeños basados en cinemática diferencial.
+
+Esta placa está pensada para simplificar la parte hardware del desarrollo robótico, proporcionando una solución autocontenida que pueda utilizarse en:
+
+- Control de robots diferenciales
+- Plataformas robóticas alimentadas por batería
+- Desarrollo de firmware embebido con ESP32
+- Prototipado rápido en robótica
+- Experimentos de navegación autónoma
+- Proyectos educativos y de investigación
+
+## Enfoque de diseño
+
+El proyecto sigue una filosofía clara de diseño: reducir cableado externo, mejorar la integración eléctrica y construir una arquitectura electrónica más limpia y robusta para robots móviles.
+
+Al integrar en una sola placa la etapa de potencia, los drivers de motor, el procesador y la circuitería de monitorización, TheBUG02 se convierte en una base práctica para construir sistemas robóticos completos con menos dependencias externas.
+
+## Estado del proyecto
+
+**Estado:** En desarrollo / prototipado

@@ -1,4 +1,4 @@
-# TheBUG02
+# TheBUG02 ⚡
 
 ## 🇬🇧 English
 

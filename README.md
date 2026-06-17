@@ -95,7 +95,7 @@ Al integrar en una sola placa la etapa de potencia, los drivers de motor, el pro
 ![Vista 3D](images/3D.png)
 
 ### Layout de la PCB
-![PCB Layout](images/layout.png)
+![PCB Layout](images/LAYOUT.png)
 
 ### Esquemático
 ![Esquemático](images/SCH.svg)

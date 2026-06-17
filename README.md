@@ -89,16 +89,6 @@ El proyecto sigue una filosofía clara de diseño: reducir cableado externo, mej
 
 Al integrar en una sola placa la etapa de potencia, los drivers de motor, el procesador y la circuitería de monitorización, TheBUG02 se convierte en una base práctica para construir sistemas robóticos completos con menos dependencias externas.
 
-## Imágenes
-
-### Vista 3D
-![Vista 3D](images/3D.png)
-
-### Layout de la PCB
-![PCB Layout](images/LAYOUT.png)
-
-### Esquemático
-![Esquemático](images/SCH.svg)
 
 ---
 

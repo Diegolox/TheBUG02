@@ -36,7 +36,9 @@ This board is intended to simplify the hardware side of robotics development by 
 
 The project follows a clear design philosophy: reduce external wiring, improve electrical integration, and create a cleaner and more robust electronics architecture for mobile robots.
 
-By integrating the power stage, motor drivers, processor, and monitoring circuitry into a single board, TheBUG02 becomes a practical base for building complete robotic systems with fewer external dependencies.
+Instead of relying on several external modules, this board integrates all the low-level electronics into a single PCB, making the robot more compact, cleaner and easier to assemble.
+
+Designing and integrating the electronics from scratch also provides a much deeper learning experience than simply connecting separate off-the-shelf modules.
 
 ## Images
 
@@ -56,7 +58,9 @@ By integrating the power stage, motor drivers, processor, and monitoring circuit
 **TheBUG02** es una **PCB de control todo-en-uno** diseñada para un **robot diferencial de dos ruedas**.  
 El proyecto busca ofrecer una plataforma embebida compacta e integrada que reúna en una sola placa los bloques electrónicos principales necesarios en un robot móvil pequeño: gestión de alimentación, accionamiento de motores, integración del microcontrolador y monitorización de la batería.
 
-En lugar de depender de varios módulos externos, esta placa concentra toda la electrónica de bajo nivel en una única PCB, haciendo que el robot sea más fácil de montar, más fiable y más adecuada para prototipado rápido y desarrollo iterativo.
+En lugar de depender de varios módulos externos, esta placa integra toda la electrónica de bajo nivel en una única PCB, haciendo que el robot sea más compacto, limpio y fácil de montar.
+
+Además, diseñar e integrar la electrónica desde cero supone un aprendizaje mucho más completo que limitarse a conectar módulos comerciales comprados por separado.
 
 ## En qué consiste el proyecto
 

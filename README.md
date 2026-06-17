@@ -14,7 +14,7 @@ TheBUG02 is designed as a robotics electronics platform where the main control a
 - **ESP32-based control system** as the main processing unit
 - **Integrated motor drivers** for controlling the DC motors of the robot
 - **Integrated DC-DC converter** for efficient power conversion from the battery supply
-- **Integrated linear regulator** for stable regulated voltage rails
+- **Integrated linear regulator** for stable regulated voltage rails (3V3)
 - **Battery voltage sensing** for supply monitoring and power supervision
 - **ESP-PROG programming/debugging interface** for firmware upload and debugging
 - **Compact full-SMD PCB design** for reduced size and improved manufacturability
@@ -65,7 +65,7 @@ TheBUG02 está planteado como una plataforma electrónica para robótica en la q
 - **Sistema de control basado en ESP32** como unidad principal de procesamiento
 - **Drivers de motores integrados** para el control de los motores DC del robot
 - **Convertidor DC-DC integrado** para convertir de forma eficiente la alimentación desde batería
-- **Regulador lineal integrado** para generar tensiones reguladas estables
+- **Regulador lineal integrado** para generar tensiones reguladas estables (3V3)
 - **Lectura de tensión de baterías** para monitorización y supervisión energética
 - **Interfaz de programación y depuración ESP-PROG** para carga de firmware y debugging
 - **Diseño full-SMD y compacto**, orientado a reducir tamaño y mejorar fabricabilidad

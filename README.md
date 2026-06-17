@@ -96,6 +96,5 @@ Al integrar en una sola placa la etapa de potencia, los drivers de motor, el pro
 
 ---
 
-## Project Status / Estado del proyecto
-
-**Status / Estado:** In development / prototyping · En desarrollo / prototipado
+## Project Status
+**Status / Estado:** prototyping / prototipado

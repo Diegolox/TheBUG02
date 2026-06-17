@@ -46,7 +46,7 @@ Designing and integrating the electronics from scratch also provides a much deep
 ![3D View](images/3D.png)
 
 ### PCB Layout
-![PCB Layout](images/LAYOUT.png)
+![PCB Layout](images/the_LAYOUT.png)
 
 ### Schematic
 ![Schematic](images/schematic.jpg)

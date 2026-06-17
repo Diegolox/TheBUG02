@@ -3,7 +3,7 @@
 ## 🇬🇧 English
 
 **TheBUG02** is a custom **all-in-one control PCB** designed for a **two-wheel differential drive robot**.  
-The project aims to provide a compact and integrated embedded platform that combines the essential hardware blocks required in a small mobile robot: power management, motor driving, microcontroller integration, battery monitoring, and development interfaces.
+The project aims to provide a compact and integrated embedded platform that combines the essential hardware blocks required in a small mobile robot: power management, motor driving, microcontroller integration and battery monitoring.
 
 Instead of relying on multiple external modules, this board concentrates the complete low-level electronics into a single PCB, making the robot easier to assemble, more reliable, and better suited for rapid prototyping and iterative development.
 
@@ -54,7 +54,7 @@ By integrating the power stage, motor drivers, processor, and monitoring circuit
 ## 🇪🇸 Español
 
 **TheBUG02** es una **PCB de control todo-en-uno** diseñada para un **robot diferencial de dos ruedas**.  
-El proyecto busca ofrecer una plataforma embebida compacta e integrada que reúna en una sola placa los bloques electrónicos principales necesarios en un robot móvil pequeño: gestión de alimentación, accionamiento de motores, integración del microcontrolador, monitorización de batería e interfaces de desarrollo.
+El proyecto busca ofrecer una plataforma embebida compacta e integrada que reúna en una sola placa los bloques electrónicos principales necesarios en un robot móvil pequeño: gestión de alimentación, accionamiento de motores, integración del microcontrolador y monitorización de la batería.
 
 En lugar de depender de varios módulos externos, esta placa concentra toda la electrónica de bajo nivel en una única PCB, haciendo que el robot sea más fácil de montar, más fiable y más adecuada para prototipado rápido y desarrollo iterativo.
 

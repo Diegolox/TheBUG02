@@ -44,7 +44,7 @@ By integrating the power stage, motor drivers, processor, and monitoring circuit
 ![3D View](images/3D.png)
 
 ### PCB Layout
-![PCB Layout](images/layout.png)
+![PCB Layout](images/LAYOUT.png)
 
 ### Schematic
 ![Schematic](images/schematic.jpg)

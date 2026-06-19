@@ -1,6 +1,6 @@
 # TheBUG02 ⚡
 
-## 🇬🇧 English
+## 🇬🇧 Project Description
 
 <p align="justify">
 <strong>TheBUG02</strong> is a custom <strong>all-in-one control PCB</strong> designed for a <strong>two-wheel differential drive robot</strong>.  

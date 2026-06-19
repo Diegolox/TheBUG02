@@ -72,7 +72,7 @@ Designing and integrating the electronics from scratch also provides a much deep
 
 ---
 
-## 🇪🇸 Español
+## 🇪🇸 Descripción del proyecto
 
 <p align="justify">
 <strong>TheBUG02</strong> es una <strong>PCB de control todo-en-uno</strong> diseñada para un <strong>robot diferencial de dos ruedas</strong>.  
